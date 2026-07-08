@@ -19,3 +19,39 @@ The system shall improve resource allocation during peak passenger periods.
 
 ### BR-06
 The system shall support continuous improvement initiatives across airport operations.
+
+# Functional Requirements
+
+## FR-01
+The system shall display passenger volumes across each airport touchpoint.
+
+## FR-02
+The system shall calculate average waiting times for:
+- Check-in
+- Security
+- Immigration
+- Boarding
+- Baggage Claim
+
+## FR-03
+The system shall identify operational bottlenecks using waiting time thresholds.
+
+## FR-04
+The system shall provide filtering capabilities based on:
+- Date
+- Time
+- Terminal
+- Flight Type
+- Airline
+
+## FR-05
+The system shall display operational KPIs through interactive dashboards.
+
+## FR-06
+The system shall provide passenger satisfaction analysis.
+
+## FR-07
+The system shall support drill-down analysis for operational managers.
+
+## FR-08
+The system shall generate trend analysis for passenger flow over time.
