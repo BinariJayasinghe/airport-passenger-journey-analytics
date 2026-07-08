@@ -78,3 +78,39 @@ The system shall provide accurate and consistent KPI calculations.
 
 ## NFR-07 Maintainability
 The data model and dashboard shall support future enhancements and modifications.
+
+# User Stories
+
+## US-01
+As an Operations Manager, I want to view passenger volumes across airport touchpoints so that I can identify congestion areas.
+
+### Acceptance Criteria
+- Passenger volumes are displayed by touchpoint.
+- Data can be filtered by date and terminal.
+
+---
+
+## US-02
+As a Security Manager, I want to monitor security queue waiting times so that I can allocate staff effectively.
+
+### Acceptance Criteria
+- Average waiting times are displayed.
+- Alerts are generated for excessive queue times.
+
+---
+
+## US-03
+As an Airport Executive, I want to view operational KPIs in a dashboard so that I can make data-driven decisions.
+
+### Acceptance Criteria
+- KPIs are displayed visually.
+- Dashboard supports drill-down analysis.
+
+---
+
+## US-04
+As a Customer Experience Manager, I want to analyze passenger satisfaction trends so that I can improve customer experience initiatives.
+
+### Acceptance Criteria
+- Satisfaction scores are displayed over time.
+- Trends can be filtered by passenger segment.
