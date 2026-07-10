@@ -1,5 +1,5 @@
+![Project Banner](12_Project_Images/airport_project_banner.png)
 # ✈️ Airport Passenger Journey Analytics Dashboard
-
 ## 📌 Project Overview
 
 The Airport Passenger Journey Analytics project analyzes passenger movement and operational performance across different stages of the airport journey. The project aims to identify bottlenecks, improve passenger satisfaction, and support data-driven operational decision-making.
@@ -124,7 +124,7 @@ The Operational Dashboard focuses on passenger trends and operational performanc
 # 💡 Recommendations
 
 ### Short-Term Improvements
-- Increase staffing during peak periods.
+- Increase staffing during peak periods
 - Improve baggage handling efficiency.
 - Reduce check-in waiting times.
 
